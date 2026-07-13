@@ -7,7 +7,7 @@ Computer Science engineer, based in Ecuador. I care about clean UIs and
 things that actually ship. Lately: building with LLMs & agents, and digging
 into security.
 
-| Project | What it is | Focus |
+| Project | Description | Focus |
 |---|---|---|
 | [Nexis](https://github.com/marcocjmr/logistics-agent-band) | Multi-agent system for corporate travel planning — four agents, multi-LLM, real-time policy checks | `AI` · `Agents` · `RAGs` · `Frontend` · `Backend` |
 | [markeeto](https://markeeto.dev) | Where I design & build — my studio, my site, client work | `UI/UX` · `Frontend` · `Design` |
