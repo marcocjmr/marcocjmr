@@ -1,16 +1,19 @@
-## Hi there 👋
+### hi, I'm Marco 👋
 
-<!--
-**marcocjmr/marcocjmr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer — I build products end to end, from the interface people
+touch to the systems behind it.
 
-Here are some ideas to get you started:
+Computer Science engineer, based in Ecuador. I care about clean UIs and
+things that actually ship. Lately: building with LLMs & agents, and digging
+into security.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**building**
+
+- [Nexis](https://github.com/marcocjmr/logistics-agent-band) — multi-agent system for corporate travel planning. four agents, multi-LLM, real-time policy checks.
+- [markeeto](https://markeeto.dev) — where I design & build. my studio, my site, client work.
+
+**tools** &nbsp;`typescript` `next.js` `react` `node` `python` `figma` `llm apis` `java`
+
+**elsewhere** &nbsp;[markeeto.dev](https://markeeto.dev) · [linkedin](https://linkedin.com/in/marcocjmr) · marco@markeeto.dev
+
+<sub>open to remote roles ·  utc-5</sub>
