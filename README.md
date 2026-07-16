@@ -15,6 +15,6 @@ into security.
 
 **tools** &nbsp;`typescript` `next.js` `react` `node` `python` `java` `figma` `llm apis` 
 
-**elsewhere** &nbsp;[markeeto.dev](https://markeeto.dev) · [linkedin](https://linkedin.com/in/marcocjmr) · marco@markeeto.dev
+**elsewhere** &nbsp;[markeeto.dev](https://markeeto.dev) · [linkedin](https://linkedin.com/in/marcocjmr) 
 
 <sub>open to remote roles ·  utc-5</sub>
