@@ -10,10 +10,11 @@ into security.
 | Project | Description | Focus |
 |---|---|---|
 | [Nexis](https://github.com/marcocjmr/logistics-agent-band) | Multi-agent system for corporate travel planning — four agents, multi-LLM, real-time policy checks | `AI` · `Agents` · `RAGs` · `Frontend` · `Backend` |
+| [rag-business-assistant](https://github.com/marcocjmr/rag-business-assistant) | RAG chatbot answering from a business's own docs — section-aware chunking, pgvector similarity search, streamed answers with cited sources | `AI` · `RAG` · `pgvector` · `Next.js` |
 | [hydroponics-fog-lpwan](https://github.com/marcocjmr/hydroponics-fog-lpwan) | Fog-computing simulation for real-time crop monitoring — 3 LPWAN networks, bio-inspired optimization vs ACO/PSO across 54 scenarios. My CS thesis | `IoT` · `Simulation` · `Research` · `Java` |
 | [markeeto](https://markeeto.dev) | Where I design & build — my studio, my site, client work | `UI/UX` · `Frontend` · `Design` |
 
-**tools** &nbsp;`typescript` `next.js` `react` `node` `python` `java` `figma` `llm apis` 
+**tools** &nbsp;`typescript` `next.js` `react` `node` `python` `java` `figma` `llm apis` `postgres`
 
 **elsewhere** &nbsp;[markeeto.dev](https://markeeto.dev) · [linkedin](https://linkedin.com/in/marcocjmr) 
 
