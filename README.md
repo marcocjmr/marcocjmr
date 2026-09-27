@@ -15,6 +15,7 @@ Computer Science engineer, based in Cuenca, Ecuador. I care about clean UIs and 
 
 ```text
 typescript   ██████████████████░░
+swift        ███████████████░░░░░
 python       ███████████░░░░░░░░░
 java         ███████░░░░░░░░░░░░░
 sql          ████░░░░░░░░░░░░░░░░
